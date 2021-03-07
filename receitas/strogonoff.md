@@ -1,5 +1,3 @@
-[TOC]
-
 # Strogonoff de Carne​ ​-​ (:cow::cow2::cow:)
 
 ### Ingredientes
@@ -47,11 +45,6 @@
 - :wine_glass: Vinho Golan Heights Yarden Cabernt Suavignon 2016  - 750ml. (ISR)
 - :wine_glass: Louis M. Martini Napa Valley Cabernet Sauvigno 2016 - 750ml.  (E.U.A)
 
-## Ilustração 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Imagem mera mente ilustrativa de como deverá ficar o prato final
-
-![prato1](C:\Users\usuario\Desktop\WORK\prato1.png)
-
-[^Este arquivo foi criado por 12kFranco - 07/03/2021 - 14:17h BR]: 
-
+*Este arquivo foi criado por 12kFranco - 07/03/2021 - 14:17h (BR)*

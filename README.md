@@ -6,5 +6,5 @@
 
 - Strogonoff de Carne​ ​-​ :cow: :cow2: :cow: 
 
-@12kFranco - 07/03/2021 -  15:45h  (BR)
+*@12kFranco - 07/03/2021 -  15:45h  (BR)*
 
