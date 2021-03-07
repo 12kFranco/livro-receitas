@@ -1,6 +1,6 @@
 # Strogonoff de Carne​ ​-​ (:cow::cow2::cow:)
 
-### Ingredientes
+## Ingredientes
 
 - 500g de Filé-mignon
 - Pimenta em Pó do reino
@@ -42,8 +42,8 @@
 
 ## Sugestão - Bebida
 
-- :wine_glass: Vinho Golan Heights Yarden Cabernt Suavignon 2016  - 750ml. (ISR)
-- :wine_glass: Louis M. Martini Napa Valley Cabernet Sauvigno 2016 - 750ml.  (E.U.A)
+- :wine_glass: - Vinho Golan Heights Yarden Cabernt Suavignon 2016  - 750ml. (ISR)
+- :wine_glass: - Louis M. Martini Napa Valley Cabernet Sauvigno 2016 - 750ml.  (E.U.A)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
