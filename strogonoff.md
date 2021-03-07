@@ -43,8 +43,9 @@
 ## Sugestão - Bebida
 
 - :wine_glass: - Vinho Golan Heights Yarden Cabernt Suavignon 2016  - 750ml. (ISR)
+
 - :wine_glass: - Louis M. Martini Napa Valley Cabernet Sauvigno 2016 - 750ml.  (E.U.A)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 
-*Este arquivo foi criado por 12kFranco - 07/03/2021 - 14:17h (BR)*
+  *Este arquivo foi criado por 12kFranco - 07/03/2021 - 14:17h (BR)*
